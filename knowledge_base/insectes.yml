@@ -1,0 +1,8 @@
+cochenille:
+  ennemis:
+    - syrphe
+syrphe:
+  plantes_amies:
+    - achillee_mille_feuille
+    - bourrache
+    - calendula_souchet
