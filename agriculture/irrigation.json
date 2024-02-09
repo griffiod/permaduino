@@ -1,0 +1,86 @@
+{
+  "template": {
+    "datas": {},
+    "peigne": {}
+  },
+  "regard_canal": {
+    "noir": {},
+    "rouge_a": {},
+    "rouge_b": {
+      "datas": {
+        "diametre": 32,
+        "altitude": 950
+      },
+      "peigne": {
+        "reduction_a": {
+          "datas": {
+            "diametre": 12,
+            "altitude": 950
+          },
+          "peigne": {
+            "bassin_historique": {
+              "datas": {
+                "altitude": 930,
+                "volume": 200
+              },
+              "peigne": {
+                "alim_maison": {
+                  "datas": {},
+                  "peigne": {
+                    "alim_toilettes": {
+                      "datas": {},
+                      "peigne": {}
+                    },
+                    "eau_potable": {
+                      "datas": {},
+                      "peigne": {}
+                    }
+                  }
+                },
+                "trop_plein": {
+                  "datas": {},
+                  "peigne": {
+                    "arosage fraises": {
+                      "datas": {},
+                      "peigne": {}
+                    },
+                    "robinet_P0": {
+                      "datas": {},
+                      "peigne": {}
+                    },
+                    "arrosage_prunier": {
+                      "datas": {},
+                      "peigne": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "cascade": {
+    "datas": {},
+    "peigne": {
+      "lavoir": {
+        "datas": {},
+        "peigne": {
+          "trop_plein_m2": {
+            "datas": {},
+            "peigne": {}
+          },
+          "d25_m2": {
+            "datas": {},
+            "peigne": {}
+          }
+        }
+      },
+      "prise_m3": {
+        "datas": {},
+        "peigne": {}
+      }
+    }
+  }
+}
