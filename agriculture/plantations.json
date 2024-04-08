@@ -1,0 +1,30 @@
+{
+  "m1": {
+    "prunier_reine_claude_xxx": {}
+  },
+  "m2": {
+    "enclos_pommiers": {
+      "pommier_fuji": {
+        "date_plantation": "2022-11"
+      },
+      "pommier_golden": {},
+      "pommier_gala": {},
+      "framboisiers": {},
+      "cassissiers": {},
+      "ligne_aromatiques": {}
+    },
+    "enclos_oullins": {
+      "prunier_reine_claude_oullins": {}
+    }
+  },
+  "talus_m2_m3": {
+    "prunier_reine_claude_yyy": {},
+    "aromatiques_est": {},
+    "aromatiques_talus": {}
+  },
+  "m3": {
+    "prunier_reine_claude_yyy": {},
+    "kiwis": {},
+    "saule_pleureur": {}
+  }
+}
